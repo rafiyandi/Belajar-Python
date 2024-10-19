@@ -1,0 +1,4 @@
+Measuring Asymmetry (Pengukuran Asimetri) adalah metode dalam statistik yang digunakan untuk menggambarkan ketidakseimbangan atau ketidaksimetrisan distribusi data.
+Distribusi data dikatakan simetris jika nilai-nilai data terdistribusi secara merata di sekitar titik pusat, seperti pada distribusi normal (bell curve).
+Sebaliknya, distribusi yang tidak simetris (asimetri) menunjukkan bahwa data lebih condong ke satu sisi atau ada ekor yang panjang di salah satu ujung distribusi.
+
